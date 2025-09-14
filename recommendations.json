@@ -1,0 +1,132 @@
+{
+  "test-user": [
+    {
+      "charity": {
+        "name": "World Wildlife Fund",
+        "mission": "Charity mission statement",
+        "url": "https://worldwildlifefund.org",
+        "category": "general"
+      },
+      "news_article": {
+        "title": "Climate Change Crisis: Urgent Action Needed",
+        "description": "Scientists warn that climate change is accelerating faster than predicted, requiring immediate environmental action and conservation efforts.",
+        "url": "https://example.com/climate-crisis",
+        "category": "general",
+        "urgencyScore": 8.0,
+        "publishedAt": "2025-09-14T06:38:03.341979Z"
+      },
+      "reason": "Based on recent news: Climate Change Crisis: Urgent Action Needed",
+      "relevance_score": 0.9
+    }
+  ],
+  "0x064BcE120651E09Dd1444cbc71d1E02C248f0D7d": [
+    {
+      "charity": {
+        "name": "UNICEF",
+        "mission": "Charity mission statement",
+        "url": "https://unicef.org",
+        "category": "general"
+      },
+      "news_article": {
+        "title": "Federal Judge Questions Deportations to Ghana",
+        "description": "A hearing in the case of five migrants deported to Ghana last week showed how earlier Supreme Court rulings have paved the way for President Trump\u2019s mass deportation campaign.",
+        "url": "https://www.nytimes.com/2025/09/13/us/politics/federal-judge-migrants-ghana.html",
+        "category": "general",
+        "urgencyScore": 8.0,
+        "publishedAt": "2025-09-14T07:25:45.257830Z"
+      },
+      "reason": "Based on recent news: Federal Judge Questions Deportations to Ghana",
+      "relevance_score": 1.0
+    },
+    {
+      "charity": {
+        "name": "Amnesty International",
+        "mission": "Charity mission statement",
+        "url": "https://amnestyinternational.org",
+        "category": "general"
+      },
+      "news_article": {
+        "title": "Federal Judge Questions Deportations to Ghana",
+        "description": "A hearing in the case of five migrants deported to Ghana last week showed how earlier Supreme Court rulings have paved the way for President Trump\u2019s mass deportation campaign.",
+        "url": "https://www.nytimes.com/2025/09/13/us/politics/federal-judge-migrants-ghana.html",
+        "category": "general",
+        "urgencyScore": 8.0,
+        "publishedAt": "2025-09-14T07:25:45.258921Z"
+      },
+      "reason": "Based on recent news: Federal Judge Questions Deportations to Ghana",
+      "relevance_score": 1.0
+    },
+    {
+      "charity": {
+        "name": "Red Cross",
+        "mission": "Charity mission statement",
+        "url": "https://redcross.org",
+        "category": "general"
+      },
+      "news_article": {
+        "title": "Funicular Crash Has Jarred Lisbon\u2019s Sense of Itself",
+        "description": "Lisbon has transformed itself in recent years into a destination for international investors. A funicular crash that killed 16 people has prompted soul-searching about the changes in the city.",
+        "url": "https://www.nytimes.com/2025/09/14/world/europe/lisbon-funicular-crash.html",
+        "category": "general",
+        "urgencyScore": 8.0,
+        "publishedAt": "2025-09-14T10:28:57.816802Z"
+      },
+      "reason": "Based on recent news: Funicular Crash Has Jarred Lisbon\u2019s Sense of Itself",
+      "relevance_score": 1.0
+    },
+    {
+      "charity": {
+        "name": "World Wildlife Fund",
+        "mission": "Charity mission statement",
+        "url": "https://worldwildlifefund.org",
+        "category": "general"
+      },
+      "news_article": {
+        "title": "The Capital of Electric Cars Is Turning to Electric Planes",
+        "description": "There are dozens of short daily flights to Norway\u2019s islands, and the oil-producing Scandinavian country wants electricity to power them.",
+        "url": "https://www.nytimes.com/2025/09/14/business/energy-environment/norway-electric-plane-green-energy.html",
+        "category": "general",
+        "urgencyScore": 8.0,
+        "publishedAt": "2025-09-14T10:29:03.838318Z"
+      },
+      "reason": "Based on recent news: The Capital of Electric Cars Is Turning to Electric Planes",
+      "relevance_score": 1.0
+    },
+    {
+      "charity": {
+        "name": "UNICEF",
+        "mission": "Charity mission statement",
+        "url": "https://unicef.org",
+        "category": "general"
+      },
+      "news_article": {
+        "title": "After Bolsonaro\u2019s Conviction, Brazil Already Considers His Amnesty",
+        "description": "Brazil\u2019s top court sentenced former President Jair Bolsonaro to 27 years in prison. The nation\u2019s Congress is already debating how to free him.",
+        "url": "https://www.nytimes.com/2025/09/14/world/americas/bolsonaro-convicted-coup-amnesty.html",
+        "category": "general",
+        "urgencyScore": 8.0,
+        "publishedAt": "2025-09-14T12:35:21.692782Z"
+      },
+      "reason": "Based on recent news: After Bolsonaro\u2019s Conviction, Brazil Already Considers His Amnesty",
+      "relevance_score": 1.0
+    },
+    {
+      "charity": {
+        "name": "Amnesty International",
+        "mission": "Charity mission statement",
+        "url": "https://amnestyinternational.org",
+        "category": "general"
+      },
+      "news_article": {
+        "title": "After Bolsonaro\u2019s Conviction, Brazil Already Considers His Amnesty",
+        "description": "Brazil\u2019s top court sentenced former President Jair Bolsonaro to 27 years in prison. The nation\u2019s Congress is already debating how to free him.",
+        "url": "https://www.nytimes.com/2025/09/14/world/americas/bolsonaro-convicted-coup-amnesty.html",
+        "category": "general",
+        "urgencyScore": 8.0,
+        "publishedAt": "2025-09-14T12:35:21.694578Z"
+      },
+      "reason": "Based on recent news: After Bolsonaro\u2019s Conviction, Brazil Already Considers His Amnesty",
+      "relevance_score": 1.0
+    }
+  ]
+}
