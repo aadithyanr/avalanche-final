@@ -127,6 +127,42 @@
       },
       "reason": "Based on recent news: After Bolsonaro\u2019s Conviction, Brazil Already Considers His Amnesty",
       "relevance_score": 1.0
+    },
+    {
+      "charity": {
+        "name": "UNICEF",
+        "mission": "Charity mission statement",
+        "url": "https://unicef.org",
+        "category": "general"
+      },
+      "news_article": {
+        "title": "The German Elections That Are Set to Test the Attraction of the Far Right",
+        "description": "A municipal vote in the state of North Rhine-Westphalia will be a gauge of the national mood since Chancellor Friedrich Merz took office.",
+        "url": "https://www.nytimes.com/2025/09/14/world/europe/the-german-state-elections.html",
+        "category": "general",
+        "urgencyScore": 8.0,
+        "publishedAt": "2025-09-14T14:00:18.182149Z"
+      },
+      "reason": "Based on recent news: The German Elections That Are Set to Test the Attraction of the Far Right",
+      "relevance_score": 1.0
+    },
+    {
+      "charity": {
+        "name": "Amnesty International",
+        "mission": "Charity mission statement",
+        "url": "https://amnestyinternational.org",
+        "category": "general"
+      },
+      "news_article": {
+        "title": "The German Elections That Are Set to Test the Attraction of the Far Right",
+        "description": "A municipal vote in the state of North Rhine-Westphalia will be a gauge of the national mood since Chancellor Friedrich Merz took office.",
+        "url": "https://www.nytimes.com/2025/09/14/world/europe/the-german-state-elections.html",
+        "category": "general",
+        "urgencyScore": 8.0,
+        "publishedAt": "2025-09-14T14:00:18.183918Z"
+      },
+      "reason": "Based on recent news: The German Elections That Are Set to Test the Attraction of the Far Right",
+      "relevance_score": 1.0
     }
   ]
 }
